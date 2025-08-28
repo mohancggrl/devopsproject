@@ -7,7 +7,7 @@ data "aws_vpc" "selected" {
     values = [var.vpc_cidr]
   }
 }
-
+#this is am editing 
 # ------------------------
 # Get Subnets
 # ------------------------
